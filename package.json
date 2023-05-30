@@ -1,0 +1,13 @@
+{
+  "name": "nx-show",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "nx": "15.9.3"
+  }
+}
